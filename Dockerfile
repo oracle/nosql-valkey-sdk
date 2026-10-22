@@ -4,7 +4,7 @@
 
 FROM ghcr.io/graalvm/jdk-community:25
 
-ARG JAR_VER=0.1.0
+ARG JAR_VER=1.0.0
 
 # OCI Image Metadata
 ARG BUILD_DATE

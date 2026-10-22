@@ -4,7 +4,7 @@
 
   <groupId>com.oracle.nosql.valkey</groupId>
   <artifactId>nosql-valkey</artifactId>
-  <version>0.1.0</version>
+  <version>1.0.0</version>
 
   <name>Oracle NoSQL Valkey API Adapter</name>
   <description>Valkey API Adapter for Oracle NoSQL Database</description>
