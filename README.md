@@ -23,7 +23,7 @@ docker tag ghcr.io/oracle/nosql-valkey-api oracle/nosql-valkey-api
 
 ```xml
 <dependency>
-  <groupId>com.oracle.nosql.valkey</groupId>
+  <groupId>com.oracle.nosql.sdk</groupId>
   <artifactId>nosql-valkey</artifactId>
   <version>latest-version</version>
 </dependency>
@@ -55,6 +55,8 @@ parameters, supported environments, and Java usage, see
 For Oracle NoSQL Database and Proxy install and configuration, see the Oracle NoSQL Database documentation:
 - https://docs.oracle.com/en/database/other-databases/nosql-database/
 
+For Oracle NoSQL Cloud Service documentation, see
+- https://docs.oracle.com/en/cloud/paas/nosql-cloud/index.html
 
 
 ## Examples
@@ -75,7 +77,7 @@ The project includes examples demonstrating how to:
 For Oracle NoSQL Database documentation and support, visit:
 
 - https://docs.oracle.com
-- https://www.oracle.com/database/technologies/nosql.html
+- https://www.oracle.com/database/nosql
 
 If enabled, issues and feature requests can be submitted through this repository's GitHub Issues page.
 

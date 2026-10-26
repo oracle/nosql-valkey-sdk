@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.oracle.nosql.valkey</groupId>
+  <groupId>com.oracle.nosql.sdk</groupId>
   <artifactId>nosql-valkey</artifactId>
   <version>1.0.0</version>
 
