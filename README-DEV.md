@@ -90,9 +90,9 @@ dependency of your project in *pom.xml*:
 
     ```xml
     <dependency>
-      <groupId>com.oracle.nosql.valkey</groupId>
+      <groupId>com.oracle.nosql.sdk</groupId>
       <artifactId>nosql-valkey</artifactId>
-      <version>0.1.0</version>
+      <version>latest-version</version>
     </dependency>
     ```
 
